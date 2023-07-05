@@ -16,6 +16,7 @@ export default function Home() {
         <title>govflow 🇺🇸</title>
         <meta name="description" content="Government filings, forms, and follows ups made easy" />
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:image" content="/govflow.png" />
       </Head>
       <main
       className="flex min-h-screen items-center justify-center bg-blue-600"
